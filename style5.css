@@ -1,0 +1,129 @@
+body{
+    background-color:black;
+    font-family: 'Roboto', sans-serif;
+    }
+    .img1{
+        display:block;
+        margin: auto;
+    }
+    .img2{
+        background-color:rgb(182, 165, 72);
+        padding:10px 10px;
+        border-radius:30px;
+        transition:0.5s;
+    }
+    .img2:hover{
+        transition:0.5s;
+        background-color:white;
+        box-shadow:rgb(182, 165, 72) 0px 0px 25px;
+    }
+    .img3{
+        background-color:rgb(182, 165, 72);
+        padding:10px 10px;
+        border-radius:30px;
+        transition:0.5s;
+    }
+    .img3:hover{
+        transition:0.5s;
+        background-color:white;
+        box-shadow:rgb(182, 165, 72) 0px 0px 25px;
+    }
+    .img4{
+        background-color:rgb(182, 165, 72);
+        padding:10px 10px;
+        border-radius:30px;
+        transition:0.5s;
+    }
+    .img4:hover{
+        transition:0.5s;
+        background-color:white;
+        box-shadow:rgb(182, 165, 72) 0px 0px 25px;
+    }
+    .a1{
+    text-decoration:none;
+    color:white;
+    font-size:35px;
+    background-color:rgb(182, 165, 72);
+    padding:5px 10px;
+    border-radius:15px;
+    transition:0.5s;
+    }
+    .a1:hover{
+        transition:0.5s;
+        background-color:white;
+        color:rgb(182, 165, 72);
+        box-shadow:rgb(182, 165, 72) 0px 0px 25px;
+    }
+    .a2{
+        text-decoration:none;
+        color:white;
+        font-size:35px;
+        background-color:rgb(182, 165, 72);
+    padding:5px 10px;
+    border-radius:15px;
+    transition:0.5s;
+        }
+        .a2:hover{
+            transition:0.5s;
+            background-color:white;
+            color:rgb(182, 165, 72);
+            box-shadow:rgb(182, 165, 72) 0px 0px 25px;
+        }
+        .a3{
+            text-decoration:none;
+            color:white;
+            font-size:35px;
+            background-color:rgb(182, 165, 72);
+            padding:5px 10px;
+            border-radius:15px;
+            transition:0.5s;
+            }
+            .a3:hover{
+                transition:0.5s;
+                background-color:white;
+                color:rgb(182, 165, 72);
+                box-shadow:rgb(182, 165, 72) 0px 0px 25px;
+            }
+            .a4{
+                text-decoration:none;
+                color:white;
+                font-size:35px;
+                background-color:rgb(182, 165, 72);
+                padding:5px 10px;
+                border-radius:15px;
+                transition:0.5s;
+                }
+                .a4:hover{
+                    transition:0.5s;
+                    background-color:white;
+                    color:rgb(182, 165, 72);
+                    box-shadow:rgb(182, 165, 72) 0px 0px 25px;
+                }
+                .a9{
+                    color:rgb(182, 165, 72);
+                    font-size:25px;
+                    text-shadow:yellow 0px 0px 25px;
+                    margin:0px 220px;
+                }
+                .tbl1{
+                    background-color: rgb(53, 53, 53);
+                    padding:50px 40px;
+                }
+                .td1{
+                    font-size:25px;
+                    padding:0px 20px;
+                    color:rgb(182, 165, 72);
+                    text-shadow:yellow 0px 0px 25px;
+                }
+                .td2{
+                    color:white;
+                    font-size:15px;
+                    text-align: center;
+                    text-shadow:black 0px 0px 25px;
+                }
+    .grid-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 1fr);
+    gap: 15px;
+    justify-content: center;
+    }
